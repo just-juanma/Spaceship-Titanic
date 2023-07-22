@@ -21,7 +21,7 @@ For the best models, some parameters were adjusted manually.
 Generation of the prediction and brief observation.
 
 ## ☄️ Software Description <a name="sdescription"></a>
-* Jupyter Lab - IDE
+* Jupyter Lab - Web interactive enviroment
 * Jupyter Notebook - Python enviroment
 * Python3 - Programming language
 * Libraries:
